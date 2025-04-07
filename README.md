@@ -1,4 +1,5 @@
 Book Manager 📚
+
 Aplicação Java desenvolvida como atividade acadêmica para gerenciamento de livros e autores.
 
 🛠 Tecnologias Utilizadas
