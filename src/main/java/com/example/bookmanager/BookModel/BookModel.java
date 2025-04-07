@@ -1,4 +1,4 @@
-package com.example.bookregister.BookModel;
+package com.example.bookmanager.BookModel;
 
 
 import jakarta.persistence.Entity;

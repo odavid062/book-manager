@@ -1,8 +1,8 @@
-package com.example.bookregister.BookController;
+package com.example.bookmanager.BookController;
 
 
-import com.example.bookregister.BookModel.BookModel;
-import com.example.bookregister.BookReository.BookRepository;
+import com.example.bookmanager.BookModel.BookModel;
+import com.example.bookmanager.BookReository.BookRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

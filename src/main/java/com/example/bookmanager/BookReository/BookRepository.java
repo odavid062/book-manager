@@ -1,6 +1,6 @@
-package com.example.bookregister.BookReository;
+package com.example.bookmanager.BookReository;
 
-import com.example.bookregister.BookModel.BookModel;
+import com.example.bookmanager.BookModel.BookModel;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface BookRepository extends JpaRepository<BookModel, Long> {
